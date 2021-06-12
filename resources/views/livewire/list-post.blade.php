@@ -1,5 +1,4 @@
 <div>
-    {{ $updateStateId }}
     @foreach ($posts as $post)
         <div class="flex-col p-4 my-4 bg-white shadow-xl rounded-md">
             <div>
